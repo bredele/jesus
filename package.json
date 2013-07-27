@@ -1,0 +1,26 @@
+{
+  "name": "jesus",
+  "version": "0.0.0",
+  "description": "jesus =====",
+  "main": "index.js",
+  "scripts": {
+    "test": "test index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bredele/jesus.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "multiplex",
+    "decoupled"
+  ],
+  "author": "Olivier Wietrich",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "141776db71c929b4c1e183d92c31d3e36eb0e2e0",
+  "bugs": {
+    "url": "https://github.com/bredele/jesus/issues"
+  }
+}
