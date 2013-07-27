@@ -38,5 +38,6 @@ app.get(namespace + '*', function(req, res){
       list.push(buffer);
     }
   }
+  res.type('text/javascript');
   res.send(Buffer.concat(list));
 });
