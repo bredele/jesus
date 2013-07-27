@@ -13,4 +13,4 @@ app.use(express.logger('dev'));
 app.use(express.static(__dirname + '/public'));
 
 // mount
-
+app.use(require('adapter'));
